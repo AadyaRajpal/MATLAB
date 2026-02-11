@@ -36,4 +36,8 @@ For each frame, it extracts:
 ## Output
 
 The function returns a **single feature vector** by taking the **mean** of each frame-level feature across the entire signal:
+<img width="648" height="468" alt="image" src="https://github.com/user-attachments/assets/bafeeb2d-765b-41fa-b4b0-0a7d11d214f2" />
+<img width="770" height="532" alt="image" src="https://github.com/user-attachments/assets/5195f2a5-7565-4338-b020-ebfdc4b69c54" />
+
+
 
